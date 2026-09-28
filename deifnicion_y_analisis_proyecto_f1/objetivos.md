@@ -16,7 +16,7 @@
 
 ## OBJETIVOS ESPECÍFICOS
 
-- Seguridad de contraseñas, pago fiable, rápido y eficaz.
+- Seguridad de contraseñas, pago fiable, rápido y eficaz
 
 - Base de datos fuerte, bien relacionada y a prueba de pérdidas/borrados + copia de seguridad.
 
