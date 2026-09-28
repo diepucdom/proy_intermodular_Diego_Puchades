@@ -1,0 +1,5 @@
+| Tipo de usuario | Acceso | Permisos |
+|---|---|---|
+| Usuario no registrado | Acceso público | Puede ver información general de la aplicación y registrarse. No puede acceder a perfiles privados, pagos ni interactuar con otros usuarios. |
+| Usuario registrado | Acceso mediante cuenta | Puede gestionar su propio perfil, ver y modificar sus datos personales, consultar sus propios pagos y realizar acciones dentro de la aplicación. Puede interactuar con otros usuarios según las funciones disponibles. No puede ver los pagos ni datos privados de otros usuarios. Puede bloquear a otros usuarios, pero no eliminar ni bloquear sus cuentas. |
+| Administrador | Acceso restringido mediante cuenta de administrador | Puede gestionar usuarios y contenido. Puede consultar la información necesaria para administrar la aplicación, gestionar incidencias, bloquear o desbloquear cuentas y eliminar cuentas cuando sea necesario. Puede consultar los pagos de los usuarios cuando sea necesario para la administración del sistema. |
